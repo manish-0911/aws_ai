@@ -16,6 +16,7 @@ start web services
                             opencv-python
                             cvzone
                             mediapipe
+                            libglvnd-glx
 
 step 4 = 
 backend
