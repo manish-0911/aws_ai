@@ -13,8 +13,9 @@ start web services
             intsall pip (yum install python3-pip)
                       install all the python libraries
                             boto3
-                            
-
+                            opencv-python
+                            cvzone
+                            mediapipe
 
 step 4 = 
 backend
