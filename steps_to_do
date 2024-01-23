@@ -10,6 +10,10 @@ install software:
                       
 step 3 = 
 start web services
+            intsall pip (yum install python3-pip)
+                      install all the python libraries
+                            boto3
+                            
 
 
 step 4 = 
