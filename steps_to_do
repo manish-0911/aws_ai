@@ -1,0 +1,13 @@
+step 1 = 
+run app in cloud
+
+
+step 2 = 
+install software: 
+                  web : httpd : mod_ssl
+                      http
+                      https
+                      
+step 3 = 
+
+start all the services 
